@@ -1,0 +1,14 @@
+PowerBI dashboard - showing relationships, etc
+Disease caused by stress
+
+Data description
+
+Metrics of the number of people stress affected
+
+Implementation to the workforce
+
+How people are stressed and not aware just because of our focus on the bag and how we need to retreat to take care ourselves. to refuel, recharge to enable us take charge of our affairs.
+
+show a table of the r2score and regression models
+
+can i show a circle with range of stress levels - Indicate low stress level/high stress level using the range in the dataset
